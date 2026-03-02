@@ -1,0 +1,99 @@
+header{
+    background-color: lightblue;
+    font-size: 50px;
+    margin: 20px 20px;
+    height: 100px;    
+    display: flex;
+    align-items: center;
+    padding: 0;
+    flex-direction: row;
+    gap: 200px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px;
+}
+
+body {
+    margin: 10px;
+    background-color: #F8FAFC;
+    
+}
+
+
+#maincontainer {
+    display: flex;
+    gap: 10px;
+    margin: 0px 20px;
+}
+
+#sidebar {
+    background-color: lightblue;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px;
+    flex: 1;    
+    margin: 0;  
+}
+
+#contentbox {
+    background-color: lightblue;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px;
+    flex: 2;    
+    margin: 0;  
+}
+
+#footer {
+    background-color: lightblue;
+    text-align: center;
+    font-size: 45px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px;
+    margin: 20px 20px; 
+    height: 100px;       
+    display: flex;       
+    align-items: center; 
+    justify-content: center;
+    gap: 750px; 
+    
+    padding: 0;
+}
+
+#statement{
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+#arithmeticsequence{
+    color: #0F172A;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+
+}
+
+#home{
+    color: #0F172A;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+
+}
+
+#goback{
+    color: #0F172A;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+
+}
+
+#example1{
+    color: #0F172A;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+
+}
